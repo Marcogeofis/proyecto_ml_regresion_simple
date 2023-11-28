@@ -1,4 +1,4 @@
-# Machien Learning - Regresión Lineal 
+# Machine Learning - Regresión Lineal 
 
 En este proyeto se trabajó con el algoritmo de regresión lineal de machine learning para poder hacer predicciones de valores continuos.
 
